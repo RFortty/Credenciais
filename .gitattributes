@@ -1,1 +1,2 @@
-*.mytype linguist-language=Java
+*.js linguist-vendored
+*.mytype linguist-language=Delphi
